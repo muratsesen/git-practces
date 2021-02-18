@@ -2,7 +2,7 @@ git commit -m "Your message"
 
 -a or --all
 git commit -a -m "This option automatically commits all (including new) tracked, modified or deleted files."
-
+some change on branch a 
 --amend 
 This option rewrites the very last commit with any currently staged changes or a new commit message and should only be performed on commits
 that have not been pushed to a remote repository, yet.
