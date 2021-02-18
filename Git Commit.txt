@@ -1,0 +1,4 @@
+git commit -m "Your message"
+
+-a or --all
+git commit -a -m "This option automatically commits all (including new) tracked, modified or deleted files."
